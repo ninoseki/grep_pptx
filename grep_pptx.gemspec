@@ -1,6 +1,6 @@
 lib = File.expand_path("../lib", __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require "urlscan/version"
+require "grep_pptx/version"
 
 Gem::Specification.new do |spec|
   spec.name          = "grep_pptx"

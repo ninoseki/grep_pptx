@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require "grep_pptx"
+
+GrepPptx::CLI.start
