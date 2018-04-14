@@ -16,7 +16,7 @@ TODO.
 $ grep_pptx grep [KEYWORD] [PATH]  # grep [KEYWORD] to [PATH]
 
 # give a path to a pptx file.
-$ grep_pptx grep hoge /path/to/pptx_files
+$ grep_pptx grep hoge /path/to/test.pptx
 # or give a path to a directory (it will search pptx file(s) in the directory)
 $ grep_pptx grep hoge /path/to/directory
 ```
